@@ -1,1 +1,1 @@
-# assignment-1
+# day 2 assignments
